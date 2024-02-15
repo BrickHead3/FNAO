@@ -1,0 +1,639 @@
+// Auto-generated code. Do not edit.
+namespace myImages {
+
+    helpers._registerFactory("image", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+    helpers._registerFactory("animation", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+            case "myAnim":
+            case "anim1":return [img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . e 
+. . . . . . . . . . . . . . . e 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . e . 
+. . . . . . . . . . . . . e e e 
+. . . . . . . . . . . . . . e e 
+. . . . . . . . . . . . . . . e 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . e 
+. . . . . . . . . . . . e e e e 
+. . . . . . . . . . . . e e e e 
+. . . . . . . . . . . . e e e e 
+. . . . . . . . . . . . e e e e 
+. . . . . . . . . . e e e e e e 
+. . . . . . . . . . e e e e e e 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+. . . . . . . . . . . . e e e e 
+. . . . . . . . . . . e e e e e 
+. . . . . . . . . . e e e e e e 
+. . . . . . . . . e e e e e e e 
+. . . . . . . . e e e e e e e e 
+. . . . . e e e e e e e e e e e 
+. . . . e e e e e e e e e e e . 
+. . . . . e . . . e e e e e . . 
+. . . . . . . . . . e e e e . . 
+. . . . . . . . . . . e e . . . 
+. . . . . . . . . . e e e . . . 
+. . . . . . . . . . . e . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+`, img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+`, img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+`, img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+`, img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+f f f f f f f f f f f f f f f f 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 f 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 e e e 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 e 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 e e e e 2 2 2 2 2 2 2 
+2 2 2 2 2 e e f e e 2 2 2 2 2 2 
+2 2 2 2 2 e e e e e 2 2 2 2 2 2 
+2 2 2 2 2 2 e e e 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 e e e e 2 2 2 2 2 2 2 
+2 2 2 2 2 e f e e e f e 2 2 2 2 
+2 2 2 2 2 e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 e e e e e e 2 2 2 2 
+2 2 2 2 2 2 e e e e e 2 2 2 2 2 
+2 2 2 2 2 2 e f f e e 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 e e e e e e e 2 2 2 2 2 
+2 2 2 e e e e e e e e 2 2 2 2 2 
+2 2 2 e e e e e e e e e 2 2 2 2 
+2 2 2 e e f e e f e e e 2 2 2 2 
+2 2 2 e e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e f f f e e e 2 2 2 2 
+2 2 2 2 e e e e e e e 2 2 2 2 2 
+2 2 2 2 2 e e e e e e 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 e e e e 2 2 2 2 2 2 2 2 
+2 2 2 e e e e e e e e e e 2 2 2 
+2 2 2 e e e e e e e e e e 2 2 2 
+2 2 2 e f e e e e e f e e 2 2 2 
+2 2 2 e e e e e e e e e e 2 2 2 
+2 2 2 e e e e e e e e e e 2 2 2 
+2 2 2 2 f f f e e e e e e 2 2 2 
+2 2 2 2 e e e f f f f f 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 e e e e e e 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e f e e f e e 2 2 2 2 
+2 2 2 2 e e e f f e e e 2 2 2 2 
+2 2 2 2 e e f e e f e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e f f f f e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`, img`
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 e e e 2 2 2 2 2 2 2 2 e e e 2 
+2 e e e 2 2 2 2 2 2 f 2 e e e 2 
+2 e e e 2 f 2 2 2 f 2 2 e e e 2 
+2 2 2 2 e e f e f e e e 2 2 2 2 
+2 2 2 2 f f f f f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 f f f e f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 e f f e e e f e 2 2 2 2 
+2 2 2 2 e e f f f f f e 2 2 2 2 
+2 2 2 2 e e e e e e e e 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 
+`];
+        }
+        return null;
+    })
+
+    helpers._registerFactory("song", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
+}
+// Auto-generated code. Do not edit.
